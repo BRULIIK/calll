@@ -1,3 +1,3 @@
-def f(x,y):
+def multiplication(x,y):
     return x*y
     
